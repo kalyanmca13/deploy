@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "CFN template to create architecture represented at https://aws.amazon.com/blogs/compute/fanout-s3-event-notifications-to-multiple-endpoints/.",
+  "Description": "CFN template to at https://aws.amazon.com/blogs/compute/fanout-s3-event-notifications-to-multiple-endpoints/.",
   "Parameters": {
     "CodeBucket": {
       "Description": "S3 Bucket containing Lambda deployment packages and sub-stack templates",
